@@ -1,10 +1,13 @@
 title: David Andrews
-description: Developer, writer, and maker of things
-url: "https://broyojo.com"
-baseurl: ""
 
 author:
   name: David Andrews
   email: dha@xoba.com
 
 theme: minima
+
+minima:
+  social_links:
+    - title: Broyojo at X
+      icon: x-twitter
+      url: "https://x.com/broyojo42"

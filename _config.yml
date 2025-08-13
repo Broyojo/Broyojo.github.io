@@ -5,13 +5,13 @@ email: dha@xoba.com
 description: >-
   David Andrews' personal website, featuring thoughts on technology, projects, and more.
 
+twitter_username: broyojo42
+github_username: Broyojo
+
 theme: minima
 minima:
   skin: classic
-  social_links:
-    - { platform: github, user_url: "https://github.com/Broyojo" }
-    - { platform: twitter, user_url: "https://x.com/broyojo42" }
 
 header_pages:
-  - about.md
-  - projects.md
+  - pages/about.md
+  - pages/projects.md

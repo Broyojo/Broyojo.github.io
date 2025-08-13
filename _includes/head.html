@@ -9,17 +9,28 @@
     {%- include google-analytics.html -%}
     {%- endif -%}
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css"
-        integrity="sha384-GqZQ3lq2qea8Zt4dCq8M2z6hGZzS2rC8v2vZ5vSBJ6vM0Jq4Q0Qv2Jp3vZbD7r4v" crossorigin="anonymous">
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"
-        integrity="sha384-oH7G4d4z+1c5OQK3O7l5a1w7v3mT2d3U3pKq+zKQp8kO5w9r7n1j3h0m8c9U7D8G"
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css"
+        integrity="sha384-5TcZemv2l/9On385z///+d7MSYlvIEw9FuZTIdZ14vJLqWphw7e7ZPuOiCHJcFCP" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js"
+        integrity="sha384-cMkvdD8LoxVzGF/RPUKAcvmm49FQ0oxwDF3BGKtDXcEc+T1b2N+teh/OJfpU0jr6"
         crossorigin="anonymous"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
-        integrity="sha384-+m67k2a3fE0b3sX6e7jz8Xf9M4e0mOQJt2nQfSxj1cG0t3gkR8R1lGfQ6cU7kq4d" crossorigin="anonymous"
-        onload="renderMathInElement(document.body,{delimiters:[
-        {left:'$$', right:'$$', display:true},
-        {left:'$',  right:'$',  display:false},
-        {left:'\\[', right:'\\]', display:true},
-        {left:'\\(', right:'\\)', display:false}
-    ]});"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js"
+        integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh"
+        crossorigin="anonymous"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            renderMathInElement(document.body, {
+                // customised options
+                // • auto-render specific keys, e.g.:
+                delimiters: [
+                    { left: '$$', right: '$$', display: true },
+                    { left: '$', right: '$', display: false },
+                    { left: '\\(', right: '\\)', display: false },
+                    { left: '\\[', right: '\\]', display: true }
+                ],
+                // • rendering keys, e.g.:
+                throwOnError: false
+            });
+        });
+    </script>
 </head>

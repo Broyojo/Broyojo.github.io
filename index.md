@@ -1,3 +1,57 @@
 ---
 layout: home
 ---
+
+<img src="assets/photo.jpg" style="width: 30%; height: auto; border-radius: 10px;"/>
+
+## Some Quick Facts about Me
+- I hope to build AGI
+- I like compilers, computer architecture, LLMs, and agentic systems
+- I enjoy reading AI papers daily
+- My favorite languages are Python, Go, Rust, and C
+- I'm a Technical Minecraft enthusiast
+- I believe that less is more
+- I use Arch btw
+
+## Work Experience
+- **Undergraduate AI Researcher** working under [Professor Chao Zhang](http://chaozhang.org/) (**August 2024 – present**)
+- **AI Researcher** @ [DuckAI](https://duckai-site.netlify.app/) (**2023 – present**)
+- **Junior AI Researcher** @ [Rialtic](https://www.rialtic.io/) (**2022 – 2023**)
+
+## Education
+- **CS (Intel + Sys-Arch) Undergrad** @ Georgia Tech (4.0 GPA) (**2023 – 2026**)
+  - Operating Systems (CS 3210)  
+  - Systems and Networks (CS 2200)  
+  - Computer Organization and Programming (CS 2110)  
+  - Intro to AI (CS 3600)  
+  - Data Structures and Algorithms (CS 1332)  
+  - Honors Algorithms (CS 3511)  
+  - Intro to Robotics and Perception (CS 3630)  
+  - Object Oriented Design (CS 2340)  
+  - Honors Discrete Math (CS 2051)  
+  - Probability and Statistics (MATH 3215)  
+  - Applied Combinatorics (MATH 3012)  
+  - Honors Linear Algebra (MATH 1564)  
+  - Honors Multivariable Calculus (MATH 2561)  
+  - Intro to OOP (CS 1331)  
+- **Governor Livingston High School** (4.76 GPA) (**2019 – 2023**)
+
+## Notable Projects
+- **DuckTrack**: Cross-platform, multimodal computer action data collector.  
+  [GitHub](https://github.com/TheDuckAI/DuckTrack) | [Blog post](https://duckai-site.netlify.app/blog/ducktrack)
+- **AI Photo Album**: Local photo album app that uses Meta’s [Imagebind](https://arxiv.org/abs/2305.05665) for accurate semantic search over video, audio, and images.  
+  [GitHub](https://github.com/Broyojo/photo_album)
+- **RecipeGPT**: GPT-4v based app that gives recipes using ingredients found from an image of an opened fridge. Submission for AIATL 2024.  
+  [GitHub](https://github.com/Broyojo/recipegpt)
+- **Bluebox**: 8-bit computer built from NOT gates.  
+  [TUNGBOARD Files](https://github.com/Broyojo/bluebox-boards) | [Assembler](https://github.com/Broyojo/bluebox-assembler)
+- **Hardware Minesweeper**: Original Microsoft Minesweeper completely built out of logic gates.  
+  [Video](https://www.youtube.com/watch?v=BwxEGKpONMA)
+- **Hardware Game of Life**: Conway’s Game of Life built entirely out of NOT gates.  
+  [Video](https://youtu.be/YfB1EDpD8Cg?si=d-yAz3fFMwCpuwOG)
+
+## Cool People I Work With
+- [Aran Komatsuzaki](https://x.com/arankomatsuzaki)
+- [Enrico Shippole](https://twitter.com/EnricoShippole)
+- [Tom Sawada](https://www.linkedin.com/in/tom-sawada-16303220a/)
+- [Jimmy Cushnie](https://twitter.com/jimmycushnie)

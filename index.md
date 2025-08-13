@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="assets/photo.jpg" style="width: 30%; height: auto; border-radius: 10px;"/>
+<img src="assets/photo.jpg" style="width: 60%; height: auto; border-radius: 10px;"/>
 
 ## Some Quick Facts about Me
 - I hope to build AGI

@@ -3,7 +3,7 @@ author: David Andrews
 email: dha@xoba.com
 
 description: >-
-  David Andrews' personal website, featuring thoughts on technology, projects, and more.
+  David Andrews' personal website, featuring thoughts on technology, AI, and more.
 
 twitter_username: broyojo42
 github_username: Broyojo
@@ -16,4 +16,5 @@ minima:
 
 header_pages:
   - pages/about.md
-  - pages/projects.md
+  - pages/portfolio.md
+  - pages/resume.md

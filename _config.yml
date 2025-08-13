@@ -1,20 +1,17 @@
 title: David Andrews
-author:
-  name: David Andrews
-  email: dha@xoba.com
+author: David Andrews
+email: dha@xoba.com
 
-description: >
+description: >-
   David Andrews' personal website, featuring thoughts on technology, projects, and more.
 
 theme: minima
-
 minima:
   skin: classic
-
   social_links:
-    - title: Broyojo on GitHub
-      icon: github
-      url: "https://github.com/Broyojo"
-    - title: Broyojo at X
-      icon: x-twitter
-      url: "https://x.com/broyojo42"
+    - { platform: github, user_url: "https://github.com/Broyojo" }
+    - { platform: twitter, user_url: "https://x.com/broyojo42" }
+
+header_pages:
+  - about.md
+  - projects.md

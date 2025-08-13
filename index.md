@@ -14,27 +14,13 @@ layout: home
 - I use Arch btw
 
 ## Work Experience
-- **Undergraduate AI Researcher** working under [Professor Chao Zhang](http://chaozhang.org/) (**August 2024 – present**)
-- **AI Researcher** @ [DuckAI](https://duckai-site.netlify.app/) (**2023 – present**)
-- **Junior AI Researcher** @ [Rialtic](https://www.rialtic.io/) (**2022 – 2023**)
+- **Undergraduate AI Researcher** working under [Professor Chao Zhang](http://chaozhang.org/) (**August 2024 - present**)
+- **AI Researcher** @ [DuckAI](https://duckai-site.netlify.app/) (**2023 - present**)
+- **Junior AI Researcher** @ [Rialtic](https://www.rialtic.io/) (**2022 - 2023**)
 
 ## Education
-- **CS (Intel + Sys-Arch) Undergrad** @ Georgia Tech (4.0 GPA) (**2023 – 2026**)
-  - Operating Systems (CS 3210)  
-  - Systems and Networks (CS 2200)  
-  - Computer Organization and Programming (CS 2110)  
-  - Intro to AI (CS 3600)  
-  - Data Structures and Algorithms (CS 1332)  
-  - Honors Algorithms (CS 3511)  
-  - Intro to Robotics and Perception (CS 3630)  
-  - Object Oriented Design (CS 2340)  
-  - Honors Discrete Math (CS 2051)  
-  - Probability and Statistics (MATH 3215)  
-  - Applied Combinatorics (MATH 3012)  
-  - Honors Linear Algebra (MATH 1564)  
-  - Honors Multivariable Calculus (MATH 2561)  
-  - Intro to OOP (CS 1331)  
-- **Governor Livingston High School** (4.76 GPA) (**2019 – 2023**)
+- **CS (Intel + Sys-Arch) Undergrad** @ Georgia Tech (4.0 GPA) (**2023 - 2027**)
+- **Governor Livingston High School** (4.76 GPA) (**2019 - 2023**)
 
 ## Notable Projects
 - **DuckTrack**: Cross-platform, multimodal computer action data collector.  

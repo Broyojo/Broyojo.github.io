@@ -1,8 +1,10 @@
 ---
-layout: home
+layout: page
 ---
 
 <img src="assets/photo.jpg" style="width: 60%; height: auto; border-radius: 10px;"/>
+
+[[Resume](/assets/resume.pdf)]
 
 ## Some Quick Facts about Me
 - I hope to build AGI

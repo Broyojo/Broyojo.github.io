@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 <img src="assets/photo.jpg" style="width: 60%; height: auto; border-radius: 10px;"/>

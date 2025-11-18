@@ -13,8 +13,3 @@ youtube_username: broyojo
 theme: minima
 minima:
   skin: classic
-
-header_pages:
-  - pages/about.md
-  - pages/portfolio.md
-  - pages/writing.md
